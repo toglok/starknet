@@ -1,6 +1,6 @@
 # Kelebihan StarkNet dan Pendanaan yang Mendukung Pengembangannya
 
-![images](/starknet/img/s.png)
+![img](/starknet/img/s.png)
 
 Abstrak: StarkNet adalah jaringan komputasi terdesentralisasi yang menggunakan teknologi zero-knowledge proof, seperti zk-STARKs, untuk memastikan privasi dan keamanan transaksi. Artikel ini akan membahas kelebihan StarkNet serta pendanaan yang mendukung pengembangannya.
 
@@ -25,7 +25,7 @@ menurut data terahir dari [cryptorank](https://cryptorank.io/ico/starknet#fundin
 - Seri B ($75 juta) dipimpin oleh Paradigm. Investor lainnya: Three Arrows, AlamedaResearch, Pantera Capital, Sequoia Capital, Founders Fund, DCVC, Wing VC.
 - Seri C ($50 juta) dipimpin oleh Sequoia Capital, dengan partisipasi dari investor yang sudah ada, termasuk Paradigm, Three Arrows Capital, Alameda Research, dan Founders Fund.
 - Seri D ($100 juta) dipimpin oleh Greenoaks Capital dan Coatue
-  ![gambar](/starknet/img/starknet.jpg)
+  ![img](/starknet/img/starknet.jpg)
 
 Pendanaan ini digunakan untuk pengembangan teknologi serta penelitian dan pengembangan lebih lanjut dalam bidang zero-knowledge proof. Dengan dukungan dari investor terkemuka, StarkWare dan StarkNet memiliki potensi untuk menjadi pemain utama dalam industri blockchain dan membawa perubahan signifikan dalam hal efisiensi, keamanan, dan privasi transaksi.
 
